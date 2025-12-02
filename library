@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zhidanptrsyh/MengHub/refs/heads/main/fishit.lua"))()
